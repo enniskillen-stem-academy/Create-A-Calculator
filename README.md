@@ -12,11 +12,15 @@ First, you'll need to clone this repository to your local machine so you can wor
 1. Open your terminal.
 2. Enter the following command:
 
+```
 git clone https://github.com/yourusername/Beginner-Coding-Projects.git
+```
 
 3. Navigate to the folder:
 
+```
 cd Beginner-Coding-Projects/week-2
+```
 
 ### Step 2: Open the Exercises
 Each exercise is located in the `week-2/` folder. Open them in your code editor and follow the instructions in the comments.
@@ -33,11 +37,16 @@ Once you've completed the exercises, you can push your changes to your own GitHu
 
 1. Commit your changes:
 
+```
 git add . 
 git commit -m "Completed Week 2 exercises"
+```
 
 2. Push your changes:
+
+```
 git push
+```
 
 ### Additional Resources:
 - [Python Official Documentation](https://docs.python.org/3/)
